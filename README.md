@@ -38,7 +38,3 @@ A copy is included in `data/`.
 3. Run all cells (Runtime → Run all).
 
 Libraries: pandas, numpy, matplotlib, seaborn, scipy, scikit-learn, tensorflow.
-
-## Sample results
-![Confusion matrix](images/r2_confusion.png)
-![ROC curve](images/r3_roc.png)
