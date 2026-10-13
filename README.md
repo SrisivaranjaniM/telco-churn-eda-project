@@ -2,7 +2,7 @@
 # Customer Churn Analysis: EDA, Visualization and Deep Learning
 
 Course: U21ADP05 - Exploratory Data Analysis and Visualization (Assignment II)
-Student: [Your name], [Roll No], [Class], Dept. of AI and Data Science, KPR Institute of Engineering and Technology
+Student: Sri Sivaranjani M, 24AD115, AD - B (III), Dept. of AI and Data Science, KPR Institute of Engineering and Technology
 
 ## Overview
 This project analyses the IBM Telco Customer Churn dataset (7,043 customers, 21 features) to find
