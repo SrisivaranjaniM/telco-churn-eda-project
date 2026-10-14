@@ -2,6 +2,7 @@
 # Customer Churn Analysis: EDA, Visualization and Deep Learning
 
 Course: U21ADP05 - Exploratory Data Analysis and Visualization (Assignment II)
+
 Student: Sri Sivaranjani M, 24AD115, AD - B (III), Dept. of AI and Data Science, KPR Institute of Engineering and Technology
 
 ## Overview
@@ -11,7 +12,6 @@ why customers leave a telecom company, and builds an MLP deep learning model to 
 ## Dataset
 Telco Customer Churn (IBM sample data), Kaggle:
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-A copy is included in `data/`.
 
 ## What the project covers
 - Data cleaning (blank TotalCharges, duplicates, outliers), encoding, scaling, 70/15/15 split
@@ -27,14 +27,14 @@ A copy is included in `data/`.
 - Most influential factors: tenure, contract type, monthly charges
 
 ## Repository structure
-- `churn_analysis.ipynb`: complete code with outputs
+- `Source_code.ipynb`: complete code with outputs
+- `WA_Fn-UseC_-Telco-Customer-Churn.csv`: dataset
 - `EDA_Report.pdf`: full project report
-- `data/`: dataset
-- `images/`: saved charts
+- `README.md`: project description
 
 ## How to run
-1. Open `churn_analysis.ipynb` in Google Colab.
-2. Upload the CSV from `data/` (or change the file path in the first cell).
+1. Open `Source_code.ipynb` in Google Colab.
+2. Upload `WA_Fn-UseC_-Telco-Customer-Churn.csv` to the Colab files area (`/content`).
 3. Run all cells (Runtime → Run all).
 
 Libraries: pandas, numpy, matplotlib, seaborn, scipy, scikit-learn, tensorflow.
